@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23H420" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CakeModel" representedClassName="CakeModel" syncable="YES" codeGenerationType="class">
+        <attribute name="cIng" optional="YES" attributeType="String"/>
+        <attribute name="cKc" optional="YES" attributeType="String"/>
+        <attribute name="cName" optional="YES" attributeType="String"/>
+        <attribute name="cPc" optional="YES" attributeType="String"/>
+        <attribute name="cPrice" optional="YES" attributeType="String"/>
+        <attribute name="cVc" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="SalesModel" representedClassName="SalesModel" syncable="YES" codeGenerationType="class">
+        <attribute name="saAmo" optional="YES" attributeType="String"/>
+        <attribute name="saClient" optional="YES" attributeType="String"/>
+        <attribute name="saCName" optional="YES" attributeType="String"/>
+        <attribute name="saKc" optional="YES" attributeType="String"/>
+        <attribute name="saNot" optional="YES" attributeType="String"/>
+        <attribute name="saPc" optional="YES" attributeType="String"/>
+        <attribute name="saPrice" optional="YES" attributeType="String"/>
+        <attribute name="saVc" optional="YES" attributeType="String"/>
+    </entity>
+</model>
